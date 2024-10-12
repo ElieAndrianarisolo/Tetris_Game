@@ -1,4 +1,4 @@
-# Tetris Game - README
+# Tetris Game
 
 ## Description
 
