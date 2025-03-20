@@ -4,6 +4,8 @@
 
 This project is a classic Tetris game built using HTML5, JavaScript, and CSS. The player controls the falling pieces, aligning them to complete horizontal lines. As lines are completed, they are removed, and the player's score increases.
 
+![Game_Interface](./Game_Interface.png)
+
 ## Features
 
 - **Random Tetriminos**: The game generates random Tetriminos from the set of seven predefined shapes.
